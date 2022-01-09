@@ -1,0 +1,21 @@
+j - mode the cursor down
+k - move the cursor up
+w - move to the beginning of the next word
+b - move back to the beginning of the word
+
+
+yy - yank(copy) the line
+p  - paste the line
+dd - delete the line
+u  - will undo the last change
+
+shift + v - will highlight a whole line
+    - use j,k,h,l to move and select more words/lines
+    - use y - it will copy the whole selection
+    - use d - and it will delete the whole selection
+
+dw - it delete the word to the end
+dj - it deletes the current line and plus one down
+
+yw - it copy the word to the end
+yj - it copy the current line and plus one down
