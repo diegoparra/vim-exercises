@@ -1,0 +1,19 @@
+o -> jump to the next line and goes into insert mode
+shift + o -> jump to the line above and goes into insert mode
+
+a -> move one character and goes into inset mode
+shift + a -> move to the end of the line and goes into inset mode
+
+
+i -> goes into insert mode in the current position
+shift + i -> mode the cursor to the beginning and goes into insert mode
+
+
+/ -> allows to enter into the search mode
+    - n -> will jump to the next found
+    - shitf + n -> will return to the last found
+
+
+
+* -> put the cursor over the word you wand to search and press "*" it will jump to the next found
+# -> it will works equivalent shift + n

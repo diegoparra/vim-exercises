@@ -6,6 +6,7 @@ b - move back to the beginning of the word
 
 yy - yank(copy) the line
 p  - paste the line
+shift + p  - paste the line above the current line
 dd - delete the line
 u  - will undo the last change
 
