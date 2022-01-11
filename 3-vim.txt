@@ -1,0 +1,13 @@
+"f*" -> jumps to character
+"t*" -> jumps to behind character
+"F*" -> and "T*" jump backwards through results
+";" -> to jump forward and "," to jump backwards through results
+"x" -> to delete a character, "s" to delete character and enter insert mode
+"cw" (or "ce") -> to delete word and enter insert mode
+combos: "dt)" -> delete everything until the char )
+, "vf)", "vt)",  "yt)", "ct)", etc.
+"D" ->delete rest of line
+"C" -> delete rest of line and enter insert mode
+"s" ->:word:word delete a character and enter insert mode
+"S" ->:word:word delete entire line and enter insert mode
+vimbegood exercises (plugin for neovim)
