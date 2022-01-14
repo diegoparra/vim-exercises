@@ -1,0 +1,8 @@
+gg   -> go to the top
+G    -> go down to the bottom
+:100 -> move to line 100
+12j  -> move down 12 from where you are
+}    -> scroll down
+{    -> move up
+crtl d -> page down
+crtl u -> page up
